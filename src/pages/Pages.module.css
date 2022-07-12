@@ -242,6 +242,7 @@ font-family: 'Righteous', cursive;
     text-align: justify;
     line-height: 2rem;
     display:block;
+    font-size: 1.23rem;
 }
 .topBox{
     display: flex;
@@ -255,7 +256,7 @@ font-family: 'Righteous', cursive;
 
 .pic {
     height:auto;
-    width: 65%;
+    max-width: 350px;
 }
 .headings{
     width: 50%;
