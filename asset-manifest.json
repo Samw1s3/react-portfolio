@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.7cbea027.css",
-    "main.js": "/react-portfolio/static/js/main.e48ae9c8.js",
+    "main.js": "/react-portfolio/static/js/main.b615567e.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/techblog.jpg": "/react-portfolio/static/media/techblog.11bb65ad6a1dc9245187.jpg",
     "static/media/weatherdashboard.jpg": "/react-portfolio/static/media/weatherdashboard.93deb07542f0b5f51e6b.jpg",
     "static/media/profilepic.jpg": "/react-portfolio/static/media/profilepic.be79f986c47c02fcbdea.jpg",
+    "static/media/SamanthaKTechnicalResume.pdf": "/react-portfolio/static/media/SamanthaKTechnicalResume.a7a25f602c5b86197323.pdf",
     "static/media/enviroLogo.png": "/react-portfolio/static/media/enviroLogo.4ba55bec851d12d2d382.png",
     "static/media/turtlescreenshot.jpg": "/react-portfolio/static/media/turtlescreenshot.d81b345de12fba43ac1a.jpg",
     "index.html": "/react-portfolio/index.html",
     "main.7cbea027.css.map": "/react-portfolio/static/css/main.7cbea027.css.map",
-    "main.e48ae9c8.js.map": "/react-portfolio/static/js/main.e48ae9c8.js.map",
+    "main.b615567e.js.map": "/react-portfolio/static/js/main.b615567e.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7cbea027.css",
-    "static/js/main.e48ae9c8.js"
+    "static/js/main.b615567e.js"
   ]
 }
