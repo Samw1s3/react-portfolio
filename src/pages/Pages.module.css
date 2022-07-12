@@ -63,7 +63,6 @@ font-family: 'Righteous', cursive;
 .sentences {
     width:100vw;
     display:block;
-    
 }
 
 .about{
@@ -77,9 +76,9 @@ font-family: 'Righteous', cursive;
 .projectsTitle{
     text-align: center;
 }
-.topProjects{
+/* .topProjects{
    
-}
+} */
 
 .logoBox {
     display:block;
@@ -147,9 +146,9 @@ font-family: 'Righteous', cursive;
 
 /*contact form*/
 
-.contactContainer{
+/* .contactContainer{
    
-}
+} */
 .contactForm{
     border: solid 3px #0077B6;
     border-radius: 2rem;
@@ -168,9 +167,9 @@ font-family: 'Righteous', cursive;
     
 }
 
-.contactArea {
+/* .contactArea {
 
-}
+} */
 
 .formLabel {
     font-family: 'Quicksand', sans-serif;
