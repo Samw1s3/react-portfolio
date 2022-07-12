@@ -1,8 +1,8 @@
 import React from 'react'
 import css from './Pages.module.css'; 
 import ContactForm from '../components/contact';
-import Resume from '../assets/SamanthaKTechnicalResume.pdf'
-import { Link } from 'react-router-dom'
+import Resume from '../assets/SamanthaKTechnicalResume.pdf';
+
 
 
 export default function Contact() {
@@ -13,7 +13,6 @@ export default function Contact() {
       <p className={css.alert}>Please note this contact form is currently just front-end, back-end is in development</p>  
       <ContactForm></ContactForm>
       <p>If you would like a copy of my resume please click below</p>
-      <Link to="/SamanthaKTechnicalResume.pdf" target="_blank" download>Download</Link>
       <a className={css.resumeButton} href={Resume} download="SK_Resume.pdf">RESUME DOWNLOAD</a>
     </body>
   )
