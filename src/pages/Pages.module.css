@@ -215,6 +215,15 @@ font-family: 'Righteous', cursive;
     transform: translateY(-7px);
 }
 
+.alert{
+    background-color: red;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 2rem;
+    color: white;
+    font-size: 1.5rem;
+    margin: auto;
+}
 
 @media screen and (min-width: 500px) {
     .body {
