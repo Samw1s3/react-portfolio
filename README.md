@@ -6,5 +6,12 @@ This is my portfolio created with React.js. It contains an About page, Portfolio
 ## Screenshot
 <img src="./src/assests/portfolioScreenshot.jpg">)
 
+## References
+https://www.w3schools.com/
+https://create-react-app.dev/docs/deployment/#github-pages
+https://www.youtube.com
+https://coolors.co/
+
+
 ## Application Link
 https://samw1s3.github.io/react_portfolio/
