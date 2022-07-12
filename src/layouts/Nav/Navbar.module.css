@@ -1,0 +1,42 @@
+/*Fonts
+font-family: 'Abel', sans-serif;
+font-family: 'Comfortaa', cursive;
+font-family: 'Karla', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Righteous', cursive;
+font-family: 'Seymour One', sans-serif;
+*/
+
+.navbar{
+    background-color:#f0f9fb;
+    list-style-type: none;
+    display: flex;
+    justify-content: end;
+    margin: 0;
+    font-family: 'Quicksand', sans-serif; 
+    padding: 1rem 0;
+} 
+
+.navbar>li {
+    margin: 0 30px 0 10px;
+    
+}
+
+.navbar>li>a {
+    color:#03045E;
+    text-decoration: none;
+    font-size: 1.25rem;
+}
+
+.navbar>li>a:hover {
+    color: black;
+    font-weight: 1000;
+    font-size: 1.5rem;
+}
+
+@media screen and (min-width: 500px) {
+    .navbar {
+    margin-left: 10%;
+    margin-right: 10%;
+    }
+}
