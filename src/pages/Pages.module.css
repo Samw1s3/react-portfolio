@@ -46,7 +46,7 @@ font-family: 'Righteous', cursive;
     margin:0;
     justify-content: center;
     align-items: center;
-    font-family: 'Righteous', cursive;
+    font-family: 'Righteous', sans-serif;
     
 }
 
@@ -68,7 +68,7 @@ font-family: 'Righteous', cursive;
 .about{
     padding: 1rem;
     text-align: justify;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa', sans-serif;
     line-height: 1.5rem;
 }
 
@@ -124,6 +124,7 @@ font-family: 'Righteous', cursive;
 .resumeButton {
     border: solid #03045E 2px;
     text-decoration: none;
+    text-align: center;
     color:#0077B6;
     background-color: #CAF0F8;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
