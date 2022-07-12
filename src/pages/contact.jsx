@@ -10,7 +10,8 @@ export default function Contact() {
       <p>If you would further information about me or would like to chat about something specific, please fill out the contact form below.</p>  
       <ContactForm></ContactForm>
       <p>If you would like a copy of my resume please click below</p>
-      <a className={css.resumeButton} href='' download>RESUME DOWNLOAD</a>
+      <a className={css.resumeButton} href='/SamanthaKTechnicalResume.pdf' download>RESUME DOWNLOAD</a>
     </body>
   )
+  
 }

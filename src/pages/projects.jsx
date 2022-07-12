@@ -1,9 +1,9 @@
 import React from 'react'
 import css from './Pages.module.css';
-import Enviro from './../assests/enviroLogo.png';
-import Turtle from './../assests/turtlescreenshot.jpg'; 
-import Blog from './../assests/techblog.jpg'
-import Weather from './../assests/weatherdashboard.jpg'
+import Enviro from './../assets/enviroLogo.png';
+import Turtle from './../assets/turtlescreenshot.jpg'; 
+import Blog from './../assets/techblog.jpg'
+import Weather from './../assets/weatherdashboard.jpg'
 export default function Projects() {
   return (
     <body className={css.body}>

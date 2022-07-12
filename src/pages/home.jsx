@@ -1,5 +1,5 @@
 import React from 'react'
-import ProfilePic from './../assests/profilepic.jpg'
+import ProfilePic from './../assets/profilepic.jpg'
 import css from './Pages.module.css';
 export default function Home() {
     return (
