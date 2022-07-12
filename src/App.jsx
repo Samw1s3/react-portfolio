@@ -19,11 +19,11 @@ function App() {
     <AppLayout>
 
       <Routes>
-        <Route path="/react-portfolio" element={<Home/>} />
+        <Route path="/" element={<Home/>} />
 
-        <Route path="/react-portfolio/contact" element={<Contact/>} />
+        <Route path="/contact" element={<Contact/>} />
 
-        <Route path="/react-portfolio/projects" element={<Projects/>} />
+        <Route path="/projects" element={<Projects/>} />
 
       </Routes>
     
