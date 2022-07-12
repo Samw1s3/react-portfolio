@@ -134,6 +134,7 @@ font-family: 'Righteous', cursive;
     display:block;
     width:fit-content;
     margin-bottom: 10px;
+    margin:auto;
     
 }
 
@@ -163,6 +164,7 @@ font-family: 'Righteous', cursive;
   font-family: "Montserrat", sans-serif;
   position: relative;
   margin: auto;
+  
     
 }
 
