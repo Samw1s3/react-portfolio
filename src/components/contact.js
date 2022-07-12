@@ -48,7 +48,7 @@ function ContactForm() {
 
     return (
         <section>
-            <div>
+            <div className={css.contactContainer}>
                 <form className={css.contactForm}>
                     <div className={css.contactArea}>
                         <label className={css.formLabel}  htmlFor="Name">Name:</label>
@@ -60,7 +60,7 @@ function ContactForm() {
                             name="Name"
                         />
                     </div>
-                    <div>
+                    <div className={css.contactArea}>
                         <label className={css.formLabel}  htmlFor="email">Email address:</label>
                         <br></br>
                         <input
@@ -71,7 +71,7 @@ function ContactForm() {
                             onBlur={handleChange}
                         />
                     </div>
-                    <div>
+                    <div className={css.contactArea}>
                         <label className={css.formLabel}  htmlFor="Message">Message:</label>
                         <br></br>
                         <textarea
