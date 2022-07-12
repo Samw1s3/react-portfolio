@@ -1,7 +1,7 @@
 // import logo from './logo.svg';
 import './App.css';
 import {
-  BrowserRouter,
+  
   Routes, 
   Route,
 } from "react-router-dom";
@@ -15,7 +15,7 @@ import AppLayout from './layouts/appLayout';
 function App() {
   return (
   <div>
-    <BrowserRouter>
+    
     <AppLayout>
 
       <Routes>
@@ -28,7 +28,7 @@ function App() {
       </Routes>
     
     </AppLayout>
-    </BrowserRouter>  
+    
 
 
   </div>
