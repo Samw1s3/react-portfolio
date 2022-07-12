@@ -11,11 +11,11 @@ export default function Navbar() {
         },
         {
             title: "Projects",
-            link: "/projects"
+            link: "/react-portfolio/projects"
         },
         {
             title: "Contact",
-            link: "/contact"
+            link: "/react-portfolio/contact"
         }
     ]
   
