@@ -11,7 +11,7 @@ font-family: 'Seymour One', sans-serif;
     background-color:#f0f9fb;
     list-style-type: none;
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     margin: 0;
     font-family: 'Quicksand', sans-serif; 
     padding: 1rem 0;

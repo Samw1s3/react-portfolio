@@ -10,10 +10,10 @@ export default function Projects() {
     <h1 className={css.projectsTitle}>Projects</h1>
     <p className={css.projectInfo}>The following projects were created either invidually or in teams of max 4 members.</p> 
     <div className={css.topProjects}>
-        <a className={css.logoBox}  href='https://enviro-hub.herokuapp.com/' target='blank'><img className={css.projectLogo} src={Enviro}></img></a>
-        <a  className={css.logoBox} href='https://samw1s3.github.io/group_project1/' target='blank'><img className={css.projectLogo} src={Turtle}></img></a>
-        <a className={css.logoBox} href='https://tech-blog-samw1s3.herokuapp.com/' target='blank'><img className={css.projectLogo} src={Blog}></img></a>
-        <a className={css.logoBox}  href='https://samw1s3.github.io/weatherapp/' target='blank'><img className={css.projectLogo} src={Weather}></img></a>
+        <a className={css.logoBox}  href='https://enviro-hub.herokuapp.com/' target='blank'><img className={css.projectLogo} src={Enviro} alt="Enviro Hub Logo"></img></a>
+        <a  className={css.logoBox} href='https://samw1s3.github.io/group_project1/' target='blank'><img className={css.projectLogo} alt="awkward turle logo" src={Turtle}></img></a>
+        <a className={css.logoBox} href='https://tech-blog-samw1s3.herokuapp.com/' target='blank'><img className={css.projectLogo} src={Blog} alt="Tech Blog Logo"></img></a>
+        <a className={css.logoBox}  href='https://samw1s3.github.io/weatherapp/' target='blank'><img className={css.projectLogo} src={Weather} alt="Westher Dashboard Screenshot"></img></a>
         {/* <a  className={css.logoBox} href='' target='blank'><img className={css.projectLogo} src={Turtle}></img></a>
         <a className={css.logoBox} href='' target='blank'><img className={css.projectLogo} src={Blog}></img></a> */}
     </div>

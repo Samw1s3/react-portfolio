@@ -7,7 +7,7 @@ export default function Home() {
             <section>
                 <div className={css.topBox}>
                     <image className={css.imageBox}>
-                        <img className={css.pic} src={ProfilePic} />
+                        <img className={css.pic} src={ProfilePic} alt=""/>
                     </image>
                     <div className={css.headings}>
                         <h1 className={css.sentences} >Hi, I am <span className={css.name}>Samantha Knopper</span>.</h1>

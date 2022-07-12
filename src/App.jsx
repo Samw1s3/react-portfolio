@@ -19,7 +19,7 @@ function App() {
     <AppLayout>
 
       <Routes>
-        <Route path="/" element={<Home/>} />
+        <Route path="/react-portfolio" element={<Home/>} />
 
         <Route path="/contact" element={<Contact/>} />
 

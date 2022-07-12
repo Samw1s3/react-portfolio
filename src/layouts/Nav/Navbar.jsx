@@ -7,7 +7,7 @@ export default function Navbar() {
     const navItems = [
         {
             title: "About Me",
-            link: "/"
+            link: "/react-portfolio"
         },
         {
             title: "Projects",
