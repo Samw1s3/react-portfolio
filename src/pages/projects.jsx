@@ -4,6 +4,7 @@ import Enviro from './../assets/enviroLogo.png';
 import Turtle from './../assets/turtlescreenshot.jpg'; 
 import Blog from './../assets/techblog.jpg'
 import Weather from './../assets/weatherdashboard.jpg'
+import Google from './../assets/googleBooks.jpg'
 export default function Projects() {
   return (
     <body className={css.body}>
@@ -14,8 +15,8 @@ export default function Projects() {
         <a  className={css.logoBox} href='https://samw1s3.github.io/group_project1/' target='blank'><img className={css.projectLogo} alt="awkward turle logo" src={Turtle}></img></a>
         <a className={css.logoBox} href='https://tech-blog-samw1s3.herokuapp.com/' target='blank'><img className={css.projectLogo} src={Blog} alt="Tech Blog Logo"></img></a>
         <a className={css.logoBox}  href='https://samw1s3.github.io/weatherapp/' target='blank'><img className={css.projectLogo} src={Weather} alt="Westher Dashboard Screenshot"></img></a>
-        {/* <a  className={css.logoBox} href='' target='blank'><img className={css.projectLogo} src={Turtle}></img></a>
-        <a className={css.logoBox} href='' target='blank'><img className={css.projectLogo} src={Blog}></img></a> */}
+        {/* {/* <a  className={css.logoBox} href='' target='blank'><img className={css.projectLogo} src={Turtle}></img></a> */}
+        <a className={css.logoBox} href='https://goog-book-search87.herokuapp.com/' target='blank'><img className={css.projectLogo} src={Google}></img></a>
     </div>
     <div>
       <h1 className={css.skillTitle}>Skills</h1>
